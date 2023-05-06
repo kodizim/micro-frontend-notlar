@@ -1,2 +1,0 @@
-# 🎩 Micro Frontend Nedir ?
-
