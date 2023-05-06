@@ -1,0 +1,2 @@
+# 🤩 @module-federation/nextjs-mf
+
