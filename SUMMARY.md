@@ -3,7 +3,7 @@
 ## 🇸🇲 Micro Frontend'e Giriş
 
 * [🎩 Micro Frontend Nedir ?](README.md)
-* [👀 Micro Frontend Mimarisi](micro-frontende-giris/micro-frontend-mimarisi.md)
+* [👀 Micro Frontend Mimarisi](micro-frontende-giris/page-1.md)
 * [🦳 Micro Frontend Uygulama Tasarımı](micro-frontende-giris/micro-frontend-uygulama-tasarimi.md)
 * [🎋 Micro Frontend Geliştirme Süreci](micro-frontende-giris/micro-frontend-gelistirme-suereci.md)
 * [🐻 Micro Frontend Uygulama Senaryoları](micro-frontende-giris/micro-frontend-uygulama-senaryolari.md)
@@ -27,7 +27,6 @@
 * [3⃣ Vue Projesini Kuralım](proje-oernegi/vue-projesini-kuralim.md)
 * [🎊 Projemizin Son Adımları](proje-oernegi/projemizin-son-adimlari.md)
 
-## 🎁 Notlar ve Kaynaklar
+## 🎁 Kaynakça
 
-* [👑 Projemizi MF'e Geçirmeli miyiz?](notlar-ve-kaynaklar/projemizi-mfe-gecirmeli-miyiz.md)
-* [🙆 Kaynakça](notlar-ve-kaynaklar/kaynakca.md)
+* [🙆 Kaynakça](kaynakca/kaynakca.md)
