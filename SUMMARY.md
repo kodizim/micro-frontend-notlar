@@ -22,9 +22,10 @@
 
 ## 🗺 Proje Örneği
 
-* [1⃣ Module Federation Nedir?](proje-oernegi/module-federation-nedir.md)
-* [2⃣ React Projesini Kuralım](proje-oernegi/react-projesini-kuralim.md)
-* [3⃣ Vue Projesini Kuralım](proje-oernegi/vue-projesini-kuralim.md)
+* [1⃣ Projemizi Tanıyalım](proje-oernegi/projemizi-taniyalim.md)
+* [2⃣ React Composer Projesini Oluşturalım](proje-oernegi/react-composer-projesini-olusturalim.md)
+* [3⃣ React Fragment Projesini Oluşturalım](proje-oernegi/react-fragment-projesini-olusturalim.md)
+* [4⃣ Vue Fragment Projesini Oluşturalım](proje-oernegi/vue-fragment-projesini-olusturalim.md)
 * [🎊 Projemizin Son Adımları](proje-oernegi/projemizin-son-adimlari.md)
 
 ## 🎁 Kaynakça
