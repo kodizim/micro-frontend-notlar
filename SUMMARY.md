@@ -10,11 +10,11 @@
 * [🧎 Micro Frontend Güvenliği](micro-frontende-giris/micro-frontend-guevenligi.md)
 * [🐈 Micro Frontend Örnekleri](micro-frontende-giris/micro-frontend-oernekleri.md)
 * [😖 Micro Frontend Karşılaşılan Zorluklar ve Çözümleri](micro-frontende-giris/micro-frontend-karsilasilan-zorluklar-ve-coezuemleri.md)
-* [😉 Mikrofrontend Geleceği](micro-frontende-giris/mikrofrontend-gelecegi.md)
+* [😉 Micro frontend Geleceği](micro-frontende-giris/micro-frontend-gelecegi.md)
 
 ## 🥳 Tool ve Framework
 
-* [🐣 Jrontend - Create Easy Micro Frontend](tool-ve-framework/jrontend-create-easy-micro-frontend.md)
+* [🐣 Jrontend - Terminal Uygulaması](tool-ve-framework/jrontend-terminal-uygulamasi.md)
 * [🧩 Puzzle JS](tool-ve-framework/puzzle-js.md)
 * [⚡ Voltran JS](tool-ve-framework/voltran-js.md)
 * [🏋 Webpack Module Federation](tool-ve-framework/webpack-module-federation.md)
@@ -22,9 +22,10 @@
 
 ## 🗺 Proje Örneği
 
-* [1⃣ Module Federation Nedir?](proje-oernegi/module-federation-nedir.md)
-* [2⃣ React Projesini Kuralım](proje-oernegi/react-projesini-kuralim.md)
-* [3⃣ Vue Projesini Kuralım](proje-oernegi/vue-projesini-kuralim.md)
+* [1⃣ Projemizi Tanıyalım](proje-oernegi/projemizi-taniyalim.md)
+* [2⃣ React Composer Projesini Oluşturalım](proje-oernegi/react-composer-projesini-olusturalim.md)
+* [3⃣ React Fragment Projesini Oluşturalım](proje-oernegi/react-fragment-projesini-olusturalim.md)
+* [4⃣ Vue Fragment Projesini Oluşturalım](proje-oernegi/vue-fragment-projesini-olusturalim.md)
 * [🎊 Projemizin Son Adımları](proje-oernegi/projemizin-son-adimlari.md)
 
 ## 🎁 Kaynakça
