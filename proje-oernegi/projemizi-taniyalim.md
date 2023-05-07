@@ -23,7 +23,7 @@ Micro frontend uygulaması oluşturma sürecini 4 aşamada gerçekleştireceğiz
    2. `App name: jrontend-fun`
    3. `Project Type: Client App`
    4. `Client Type: fragment`
-   5. `Client Name: react-fragment`
+   5. `Client Name: react_fragment`
    6. `Port: 3001`
    7. `Framework/Library: React`
    8. `With Language: JavaScript`
@@ -33,7 +33,7 @@ Micro frontend uygulaması oluşturma sürecini 4 aşamada gerçekleştireceğiz
    2. `App name: jrontend-fun`
    3. `Project Type: Client App`
    4. `Client Type: fragment`
-   5. `Client Name: vue-fragment`
+   5. `Client Name: vue_fragment`
    6. `Port: 3002`
    7. `Framework/Library: Vue`
    8. `With Language: JavaScript`

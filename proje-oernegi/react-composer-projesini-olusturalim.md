@@ -10,7 +10,7 @@ Kurulum için proje adını **jrontend-fun** tercih ediyorum.
 * `App name: jrontend-fun`
 * `Project Type: Client App`
 * `Client Type: composer`
-* `Client Name: react-composer`
+* `Client Name: react_composer`
 * `Port: 3000`
 * `Framework/Library: React`
 * `With Language: JavaScript`
