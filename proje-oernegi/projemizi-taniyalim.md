@@ -43,4 +43,6 @@ Micro frontend uygulaması oluşturma sürecini 4 aşamada gerçekleştireceğiz
    2. Geliştirme sunucusunu başlatın: `npm start`&#x20;
    3. Tarayıcınızda uygulamayı görüntüleyin ve her iki fragment uygulamanın da başarıyla yüklendiğini doğrulayın.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-07 at 20.06.16.png" alt=""><figcaption><p>Son Dosya Görünümü</p></figcaption></figure>
+
 Bu 4 aşamayı tamamladığınızda, Module Federation, Jrontend, React ve Vue kullanarak basit bir micro frontend uygulaması oluşturmuş olacaksınız. Bu yapı, daha karmaşık uygulamalar için de temel alınarak geliştirilebilir.
