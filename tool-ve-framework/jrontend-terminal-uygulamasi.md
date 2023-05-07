@@ -44,3 +44,11 @@ Uygulama ayarlarını girdikten sonra, Jrontend uygulamanızı oluşturacaktır.
 Jrontend npm paketi, micro frontend mimarisi ile çalışmaya başlamak için oldukça kullanışlı bir araçtır. Kolay kurulum aşamaları ve hazır template ile hızlı bir şekilde projeye başlayabilirsiniz. Fakat, şu an için production kullanımı için önerilmemektedir. Eğer micro frontend mimarisi öğrenmeye yeni başlıyorsanız, Jrontend'i deneyerek öğrenme sürecinizi hızlandırabilirsiniz.
 
 Happy coding 🎉
+
+
+
+Katkı sağlamak için GitHub: [https://github.com/kodizim/jrontend](https://github.com/kodizim/jrontend)
+
+Jrontend Anasayfası: [https://micro.jrontend.com/](https://micro.jrontend.com/)
+
+Npm sayfası: [https://www.npmjs.com/package/@jrontends/core](https://www.npmjs.com/package/@jrontends/core)
