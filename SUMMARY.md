@@ -14,7 +14,7 @@
 
 ## 🥳 Tool ve Framework
 
-* [🐣 Jrontend - Create Easy Micro Frontend](tool-ve-framework/jrontend-create-easy-micro-frontend.md)
+* [🐣 Jrontend - Terminal Uygulaması](tool-ve-framework/jrontend-terminal-uygulamasi.md)
 * [🧩 Puzzle JS](tool-ve-framework/puzzle-js.md)
 * [⚡ Voltran JS](tool-ve-framework/voltran-js.md)
 * [🏋 Webpack Module Federation](tool-ve-framework/webpack-module-federation.md)
