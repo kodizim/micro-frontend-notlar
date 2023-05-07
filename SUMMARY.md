@@ -10,7 +10,7 @@
 * [🧎 Micro Frontend Güvenliği](micro-frontende-giris/micro-frontend-guevenligi.md)
 * [🐈 Micro Frontend Örnekleri](micro-frontende-giris/micro-frontend-oernekleri.md)
 * [😖 Micro Frontend Karşılaşılan Zorluklar ve Çözümleri](micro-frontende-giris/micro-frontend-karsilasilan-zorluklar-ve-coezuemleri.md)
-* [😉 Mikrofrontend Geleceği](micro-frontende-giris/mikrofrontend-gelecegi.md)
+* [😉 Micro frontend Geleceği](micro-frontende-giris/micro-frontend-gelecegi.md)
 
 ## 🥳 Tool ve Framework
 
