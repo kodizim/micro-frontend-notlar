@@ -75,3 +75,5 @@ Ve son dokunuşu da yaptığımıza göre tekrardan bütün uygulamalarımızı 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-07 at 20.55.59.png" alt=""><figcaption><p>:)</p></figcaption></figure>
 
 _**NOT: Daha kapsamlı açıklamalar ve uygulamalar eklenecektir.**_&#x20;
+
+_**Projenin GitHub linki:**_ [_**https://github.com/fport/jrontend-fun**_](https://github.com/fport/jrontend-fun)
